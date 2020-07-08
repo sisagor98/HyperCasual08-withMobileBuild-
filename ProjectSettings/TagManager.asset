@@ -6,6 +6,7 @@ TagManager:
   tags:
   - bounce
   - Enemy
+  - goal
   layers:
   - Default
   - TransparentFX
@@ -18,7 +19,7 @@ TagManager:
   - clolider
   - Player
   - Enemy
-  - 
+  - Goal
   - 
   - 
   - 
